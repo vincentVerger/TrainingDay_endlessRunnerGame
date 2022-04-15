@@ -1,0 +1,22 @@
+#viewport {
+    position : relative;
+    width : 100%;
+    border: solid;
+    height : 100%;
+}
+
+
+#viewport canvas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width :100%;
+}
+
+@font-face { 
+
+font-family: "score";
+
+src : url("edunline.ttf");
+
+}
